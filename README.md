@@ -27,5 +27,5 @@ El Notebook (`.ipynb`) sigue un flujo riguroso:
 6.  **Proyección:** Calculadora interactiva basada en el promedio histórico.
 
 ---
-*Autor: [Tu Nombre]*
+*Autor:Maximiliano Velarde Chavez*
 *Datos actualizados a: Noviembre 2025*
